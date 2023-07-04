@@ -9,8 +9,8 @@
             "name": "前端"
         },
         {
-            "path": "sync",
-            "name": "同步"
+            "path": ".",
+            "name": "根"
         }
     ],
     "launch": {
