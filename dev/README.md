@@ -1,2 +1,2 @@
-# 后端
-git clone https://github.com/suyuan32/simple-admin-core.git
+# 目录说明
+执行初始化脚本后，该目录会被创建并放入所有官方模块，脚本使用go work管理依赖，每个模块都会执行go mod tidy以下载依赖
