@@ -1,2 +1,2 @@
-前端
-git clone https://github.com/suyuan32/simple-admin-backend-ui.git
+# 目录说明
+执行初始化脚本后，该目录会被放入官方的ui项目，由脚本自动处理，无需人工干预
