@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "path": "dev",
+            "name": "后端"
+        },
+        {
+            "path": "web",
+            "name": "前端"
+        },
+        {
+            "path": "sync",
+            "name": "同步"
+        }
+    ],
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "type": "node-terminal",
+                "request": "launch",
+                "name": "启动前端",
+                "cwd": "${workspaceFolder:前端}",
+                "command": "pnpm serve",
+            }
+        ]
+    }
+}
