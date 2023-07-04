@@ -7,3 +7,25 @@
 ``` shell
 ./init.sh
 ```
+## 执行结果
+```
+./init.sh
+.
+├── dev
+│   ├── core
+│   ├── file-api
+│   ├── job-rpc
+│   ├── member-api
+│   └── member-rpc
+└── web
+    ├── apps
+    ├── deploy
+    ├── internal
+    ├── mock
+    ├── packages
+    ├── public
+    ├── src
+    └── types
+
+15 directories
+```
