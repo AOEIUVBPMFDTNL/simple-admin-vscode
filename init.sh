@@ -2,7 +2,6 @@
 
 # 初始化脚本
 # 自动拉取前后端以及作者提供的官方模块
-#!/usr/bin/env bash
 rm -rf web
 rm -rf dev
 
